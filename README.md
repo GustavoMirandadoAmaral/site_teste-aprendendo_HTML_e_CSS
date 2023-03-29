@@ -1,4 +1,4 @@
-# site_teste-aprendendo_HTML_e_CSS
+# SITE TESTE APRENDENDO HTML E CSS
 primeiro projeto/experiência programando com HTML e CSS (teste).
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
