@@ -1,7 +1,7 @@
 # SITE TESTE APRENDENDO HTML E CSS
 primeiro projeto/experiência programando com HTML e CSS (teste).
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 [Link da página criada](https://site-teste-aprendendo-html-e-css.vercel.app/)
 
